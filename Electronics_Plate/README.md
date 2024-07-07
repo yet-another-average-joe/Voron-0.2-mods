@@ -11,6 +11,7 @@ Designed for :
 BOM :
 
 - 8x heatset inserts M2.5x5x3.5
+- 2x heatset inserts M3x4x5 (Voron standard heatsets)
 - 8x self tapping screws M2x10 (see below)
 
 ![](https://github.com/yet-another-average-joe/Voron-0.2-mods/blob/main/Electronics_Plate/images/Inserts.JPG)
